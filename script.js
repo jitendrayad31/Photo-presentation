@@ -11,6 +11,7 @@ var bgMusicControls = true; // Show UI music control
 
 
 
+
 // ===================== start =======================
 // animation start after 1000 miliseconds
 setTimeout(init, 1000);
